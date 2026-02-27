@@ -1,4 +1,4 @@
-# Git GUI Client
+# Drew's Wrench
 
 A production-ready Windows Git client desktop application built with Python and PyQt6. Manage Git repositories and GitHub repositories through a clean, threaded GUI interface.
 
@@ -135,3 +135,6 @@ git_gui_client/
 ## Logs
 
 Application logs are stored in `logs/app.log` with automatic rotation (5 MB per file, 5 backups retained). Logs contain command execution records, timestamps, and error details.
+
+# Note
+I made this with the help of AI. No I didn't vibe code the entire project because I genuinely want to learn programming as a whole and seeing other projects like 3d renderers, Creating bots, and especially this https://benhoyt.com/writings/pygit/ inspired me to make this. I hope whoever uses this tool help you and probably save the headache of using the CLI. Maybe it's not everyone's fancy of using this and just prefer the CLI, but hey at least it's an option
